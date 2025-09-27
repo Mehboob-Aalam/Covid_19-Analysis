@@ -20,6 +20,8 @@ The dataset used is:
 
 👉 If the file size is too large for GitHub, you can upload it to Google Drive/OneDrive and share the link here.  
 
+https://drive.google.com/drive/folders/1AluAG_Mw81LKzlRg_h7nUjsScit390aa?usp=drive_link
+
 ## ⚡ Installation
 Clone this repository and install the required libraries:
 
