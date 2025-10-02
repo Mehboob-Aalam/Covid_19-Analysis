@@ -1,6 +1,11 @@
+# Description
+An interactive Covid-19 Impact Analysis Dashboard built with Dash, Plotly, and Pandas. Visualizes confirmed, recovered, and deceased cases across states with bar charts, line plots, and pie charts. Includes dropdown filters, Bootstrap styling, and real-time analytics for better insights.
+
 # Covid-19 Impact Analysis Dashboard
 
-This project is an **interactive dashboard built with Python (Dash & Plotly)** to analyze the impact of Covid-19 across different states during the Covid-19 pandemic.  
+An **interactive Covid-19 Dashboard** built with **Dash, Plotly, and Pandas**.  
+It visualizes **confirmed, recovered, hospitalized, and deceased cases** across states with bar charts, line plots, and pie charts.  
+The app uses dropdown filters and Bootstrap styling for a clean UI.
 
 ## 🚀 Features
 - 📊 Display of **Total, Active, Recovered, and Death cases**
@@ -14,13 +19,6 @@ This project is an **interactive dashboard built with Python (Dash & Plotly)** t
 - **Dash & Plotly** (Interactive visualization)  
 - **Bootstrap** (Styling)  
 
-## 📂 Dataset
-The dataset used is:  
-`state_wise_daily data file IHHPET.csv`  
-
-👉 If the file size is too large for GitHub, you can upload it to Google Drive/OneDrive and share the link here.  
-
-https://drive.google.com/drive/folders/1AluAG_Mw81LKzlRg_h7nUjsScit390aa?usp=drive_link
 
 ## ⚡ Installation
 Clone this repository and install the required libraries:
